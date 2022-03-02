@@ -11,7 +11,7 @@ namespace Lab_01
             PersonProperties person = new PersonProperties();
             Console.WriteLine(person.firstName);
             
-            Vehicle vehicle = new Vehicle("Honda", "Civic", "Red", "2015", "123456789");
+            Vehicle vehicle = Vehicle.Create("Honda", "Civic", 2015,"Red", "123456789");
             Console.WriteLine(vehicle);
         }
     }
@@ -114,7 +114,7 @@ namespace Lab_01
         }
 
 
-        public static Vehicle Of(string make, string model, int year, string color, string licensePlate) {
+        public static Vehicle Create(string make, string model, int year, string color, string licensePlate) {
             Vehicle x = new Vehicle("Honda", "Civic", 2020, "black","testing123");
             if( Array.IndexOf(x.makes, make) >= 0){
                 if(model.Length >= 2){
