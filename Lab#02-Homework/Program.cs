@@ -74,10 +74,39 @@ namespace Lab_02_Homework
                 base.Stop();
             }
         }
-
+        //define a class Duck that implements interface Flyable and Swimable and a class Wasp that implements interface Flyable.
+        public interface Flyable{
+            void Fly();
+        }
+        public interface Swimable{
+            void Swim();
+        }
+        public class Duck: Flyable, Swimable{
+            public void Fly(){
+                Console.WriteLine("The duck is flying.");
+            }
+            public void Swim(){
+                Console.WriteLine("The duck is swimming.");
+            }
+        }
+        public class Wasp: Flyable{
+            public void Fly(){
+                Console.WriteLine("The wasp is flying.");
+            }
+        }
+        public class Hydroplane: Flyable, Swimable{
+            public void Fly(){
+                Console.WriteLine("The hydroplane is flying.");
+            }
+            public void Swim(){
+                Console.WriteLine("The hydroplane is swimming.");
+            }
+        }
+        
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            //Ćwiczenie 1
+            Console.WriteLine("Ćwiczenie 1");
             ElectricScooter electricScooter = new ElectricScooter();
             electricScooter.displayInfo();
             for(int i = 0; i < 10; i++)
@@ -90,7 +119,23 @@ namespace Lab_02_Homework
             KickScooter kickScooter = new KickScooter();
             kickScooter.Drive();
             kickScooter.Stop();
+            
+            //Ćwiczenie 2
+            Console.WriteLine("\nĆwiczenie 2");
 
+            Flyable[] flyables = new Flyable[3];
+            flyables[0] = new Duck();
+            flyables[1] = new Wasp();
+            flyables[2] = new Hydroplane();
+            int Multipurpouse = 0;
+            foreach(Flyable flyable in flyables)
+            {
+                if(flyable is Flyable && flyable is Swimable )
+                {
+                    Multipurpouse++;
+                }
+            }
+            Console.WriteLine("Classes that implement Swimmable and flyable: "+ Multipurpouse);
         }
     }
 }

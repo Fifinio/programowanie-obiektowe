@@ -57,7 +57,7 @@ namespace Lab_02
         
         static void Main(string[] args)
         {
-            //create a user karol and make him send a messenger message
+            
             User userExample = new User("Karol", new Email("Karol", "Kowalski"));
 
             Email email = new Email("me", "you");
