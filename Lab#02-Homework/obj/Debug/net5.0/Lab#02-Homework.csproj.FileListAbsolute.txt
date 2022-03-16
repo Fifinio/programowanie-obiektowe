@@ -1,0 +1,16 @@
+C:\Users\PC\Documents\Projects\programowanieObiektowe\Lab#02-Homework\bin\Debug\net5.0\Lab#02-Homework.exe
+C:\Users\PC\Documents\Projects\programowanieObiektowe\Lab#02-Homework\bin\Debug\net5.0\Lab#02-Homework.deps.json
+C:\Users\PC\Documents\Projects\programowanieObiektowe\Lab#02-Homework\bin\Debug\net5.0\Lab#02-Homework.runtimeconfig.json
+C:\Users\PC\Documents\Projects\programowanieObiektowe\Lab#02-Homework\bin\Debug\net5.0\Lab#02-Homework.runtimeconfig.dev.json
+C:\Users\PC\Documents\Projects\programowanieObiektowe\Lab#02-Homework\bin\Debug\net5.0\Lab#02-Homework.dll
+C:\Users\PC\Documents\Projects\programowanieObiektowe\Lab#02-Homework\bin\Debug\net5.0\ref\Lab#02-Homework.dll
+C:\Users\PC\Documents\Projects\programowanieObiektowe\Lab#02-Homework\bin\Debug\net5.0\Lab#02-Homework.pdb
+C:\Users\PC\Documents\Projects\programowanieObiektowe\Lab#02-Homework\obj\Debug\net5.0\Lab#02-Homework.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Projects\programowanieObiektowe\Lab#02-Homework\obj\Debug\net5.0\Lab#02-Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\Projects\programowanieObiektowe\Lab#02-Homework\obj\Debug\net5.0\Lab#02-Homework.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\Projects\programowanieObiektowe\Lab#02-Homework\obj\Debug\net5.0\Lab#02-Homework.AssemblyInfo.cs
+C:\Users\PC\Documents\Projects\programowanieObiektowe\Lab#02-Homework\obj\Debug\net5.0\Lab#02-Homework.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Projects\programowanieObiektowe\Lab#02-Homework\obj\Debug\net5.0\Lab#02-Homework.dll
+C:\Users\PC\Documents\Projects\programowanieObiektowe\Lab#02-Homework\obj\Debug\net5.0\ref\Lab#02-Homework.dll
+C:\Users\PC\Documents\Projects\programowanieObiektowe\Lab#02-Homework\obj\Debug\net5.0\Lab#02-Homework.pdb
+C:\Users\PC\Documents\Projects\programowanieObiektowe\Lab#02-Homework\obj\Debug\net5.0\Lab#02-Homework.genruntimeconfig.cache
