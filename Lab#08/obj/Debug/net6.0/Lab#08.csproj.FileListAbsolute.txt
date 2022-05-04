@@ -1,0 +1,15 @@
+C:\Users\PC\Documents\Projects\programowanieObiektowe\Lab#08\bin\Debug\net6.0\Lab#08.exe
+C:\Users\PC\Documents\Projects\programowanieObiektowe\Lab#08\bin\Debug\net6.0\Lab#08.deps.json
+C:\Users\PC\Documents\Projects\programowanieObiektowe\Lab#08\bin\Debug\net6.0\Lab#08.runtimeconfig.json
+C:\Users\PC\Documents\Projects\programowanieObiektowe\Lab#08\bin\Debug\net6.0\Lab#08.dll
+C:\Users\PC\Documents\Projects\programowanieObiektowe\Lab#08\bin\Debug\net6.0\Lab#08.pdb
+C:\Users\PC\Documents\Projects\programowanieObiektowe\Lab#08\obj\Debug\net6.0\Lab#08.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Projects\programowanieObiektowe\Lab#08\obj\Debug\net6.0\Lab#08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\Projects\programowanieObiektowe\Lab#08\obj\Debug\net6.0\Lab#08.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\Projects\programowanieObiektowe\Lab#08\obj\Debug\net6.0\Lab#08.AssemblyInfo.cs
+C:\Users\PC\Documents\Projects\programowanieObiektowe\Lab#08\obj\Debug\net6.0\Lab#08.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Projects\programowanieObiektowe\Lab#08\obj\Debug\net6.0\Lab#08.dll
+C:\Users\PC\Documents\Projects\programowanieObiektowe\Lab#08\obj\Debug\net6.0\refint\Lab#08.dll
+C:\Users\PC\Documents\Projects\programowanieObiektowe\Lab#08\obj\Debug\net6.0\Lab#08.pdb
+C:\Users\PC\Documents\Projects\programowanieObiektowe\Lab#08\obj\Debug\net6.0\Lab#08.genruntimeconfig.cache
+C:\Users\PC\Documents\Projects\programowanieObiektowe\Lab#08\obj\Debug\net6.0\ref\Lab#08.dll
