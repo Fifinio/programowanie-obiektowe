@@ -1,0 +1,15 @@
+C:\Users\PC\Documents\Projects\programowanieObiektowe\Sprawdzian\obj\Debug\net6.0\Sprawdzian.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Projects\programowanieObiektowe\Sprawdzian\obj\Debug\net6.0\Sprawdzian.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\Projects\programowanieObiektowe\Sprawdzian\obj\Debug\net6.0\Sprawdzian.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\Projects\programowanieObiektowe\Sprawdzian\obj\Debug\net6.0\Sprawdzian.AssemblyInfo.cs
+C:\Users\PC\Documents\Projects\programowanieObiektowe\Sprawdzian\obj\Debug\net6.0\Sprawdzian.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Projects\programowanieObiektowe\Sprawdzian\bin\Debug\net6.0\Sprawdzian.exe
+C:\Users\PC\Documents\Projects\programowanieObiektowe\Sprawdzian\bin\Debug\net6.0\Sprawdzian.deps.json
+C:\Users\PC\Documents\Projects\programowanieObiektowe\Sprawdzian\bin\Debug\net6.0\Sprawdzian.runtimeconfig.json
+C:\Users\PC\Documents\Projects\programowanieObiektowe\Sprawdzian\bin\Debug\net6.0\Sprawdzian.dll
+C:\Users\PC\Documents\Projects\programowanieObiektowe\Sprawdzian\bin\Debug\net6.0\Sprawdzian.pdb
+C:\Users\PC\Documents\Projects\programowanieObiektowe\Sprawdzian\obj\Debug\net6.0\Sprawdzian.dll
+C:\Users\PC\Documents\Projects\programowanieObiektowe\Sprawdzian\obj\Debug\net6.0\refint\Sprawdzian.dll
+C:\Users\PC\Documents\Projects\programowanieObiektowe\Sprawdzian\obj\Debug\net6.0\Sprawdzian.pdb
+C:\Users\PC\Documents\Projects\programowanieObiektowe\Sprawdzian\obj\Debug\net6.0\Sprawdzian.genruntimeconfig.cache
+C:\Users\PC\Documents\Projects\programowanieObiektowe\Sprawdzian\obj\Debug\net6.0\ref\Sprawdzian.dll
